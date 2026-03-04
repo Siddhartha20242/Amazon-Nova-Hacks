@@ -35,8 +35,7 @@ more every day.
 
 
 
-<img width="1794" height="600" alt="image" src="https://github.com/user-attachments/assets/3bc9a148-ec21-4121-bb69-092def2d1648" />
-
+<img width="1794" height="835" alt="image" src="https://github.com/user-attachments/assets/bfc7419f-65bb-4765-a714-904c84a7476e" />
 
 
 
